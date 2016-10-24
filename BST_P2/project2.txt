@@ -1,0 +1,23 @@
+insert 50
+insert 50
+insert 25
+insert 2.5
+remove 110
+insert 38
+insert t
+insert 27
+insert 15
+remove 27
+insert 60
+insert 65
+insert 70
+insert 55
+insert 52
+remove 60
+insert 57
+insert 14
+remove 38
+insert 28
+print_tree
+inorder_list
+rem
